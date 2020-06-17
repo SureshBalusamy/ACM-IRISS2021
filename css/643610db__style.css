@@ -2087,12 +2087,12 @@ img.pull-right {
 
 .ts-map .mapouter .gmap_canvas {
   position: relative;
-  height: 535px;
-  width: 535px;
+  height: 450px;
+  width: 450px;
   overflow: hidden;
-  border-radius: 50%;
-  -webkit-border-radius: 50%;
-  -ms-border-radius: 50%;
+  border-radius: 10%;
+  -webkit-border-radius: 10%;
+  -ms-border-radius: 10%;
   border: none; }
   .ts-map .mapouter .gmap_canvas iframe {
     position: absolute;
@@ -2100,8 +2100,8 @@ img.pull-right {
     left: 0;
     width: 100% !important;
     height: 100% !important;
-    -webkit-filter: grayscale(100%);
-    filter: grayscale(100%);
+    /*-webkit-filter: grayscale(100%);
+    filter: grayscale(100%);*/
     border: none; }
 
 .ts-map-tabs ul {
