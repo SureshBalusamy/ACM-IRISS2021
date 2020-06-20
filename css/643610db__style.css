@@ -45,9 +45,11 @@
 4.	Banner area
 
 	
-*/
+
 @import url(%22https%3A/fonts.googleapis.cof81b4961__css.pwc);
-@import url(%22https%3A/fonts.googleapis.co885adf6e__css.pwc);
+@import url(%22https%3A/fonts.googleapis.co885adf6e__css.pwc);*/
+@import url("https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,500,500i,700,700i,900,900i");
+@import url("https://fonts.googleapis.com/css?family=Raleway:300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i");
 /* ============================== */
 /* Typography
 ================================================== */
@@ -3213,7 +3215,9 @@ faq-item
     font-size: 20px;
     font-weight: 700;
     margin-top: 2px; }
-
+.onhoverClass:hover{
+color: white;
+}
 /*# sourceMappingURL=style.css.map */
 /*!
 * AerWebCopy Engine [version 6.3.0]

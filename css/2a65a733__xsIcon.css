@@ -1,7 +1,7 @@
 @font-face {
   font-family: 'iconfont';
   src:
-    url(%27fonts/7080b881__iconfont.ttf) format('truetype'),
+    url(fonts/iconfont.ttf) format('truetype'),
     url(%27fonts/0ed17a2e__iconfont.woff) format('woff'),
     url(%27fonts/9ce8fffb__iconfont.svg) format('svg');
   font-weight: normal;
