@@ -343,8 +343,7 @@
 	//the end;
 }) (jQuery,document,window);
 /*!
-* AerWebCopy Engine [version 6.3.0]
-* Copyright Aeroson Systems & Co.
-* File mirrored from http://demo.themewinter.com/html/exhibz/js/jquery.jCounter.js
-* At UTC time: 2020-06-03 16:18:02.344366
+* * Website for ACM IRISS 2021
+  * Copyright PSG College of Technology
+  * Developed by AMCS, PSG TECH
 */

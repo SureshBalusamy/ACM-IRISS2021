@@ -1,25 +1,9 @@
 /*
 
-	Template Name: Exhibit - Conference & Event HTML Template
-	Author: Themewinter
-	Author URI: https://themeforest.net/user/themewinter
-	Description: Exhibit - Conference & Event HTML Template
-	Version: 1.0
-   =====================
-   table of content 
-   ====================
-   1.   menu toogle
-   2.   event counter
-   3.   funfact
-   4.   isotope grid
-   5.   main slider
-   6.   speaker popup
-   7.   gallery
-   8.   video popup
-   9.   hero area image animation
-   10.  wow animated
-   11.  back to top
-  
+	* Website for ACM IRISS 2021
+    * Copyright PSG College of Technology
+    * Developed by AMCS, PSG TECH
+
 */
 
 
@@ -300,8 +284,7 @@ jQuery(function ($) {
 
 });
 /*!
-* AerWebCopy Engine [version 6.3.0]
-* Copyright Aeroson Systems & Co.
-* File mirrored from http://demo.themewinter.com/html/exhibz/js/main.js
-* At UTC time: 2020-06-03 16:18:04.537755
+* Website for ACM IRISS 2021
+* Copyright PSG College of Technology
+* Developed by AMCS, PSG TECH
 */
