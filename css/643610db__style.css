@@ -3216,6 +3216,20 @@ faq-item
 color: white;
 
 }
+.padding_13px{
+padding-left: 13px;}
+
+@media only screen and (max-width : 801px) {
+    .media_1024 {
+        /* styles here */
+        font-size: 13px;
+    }
+    .media_1024_10 {
+            /* styles here */
+            font-size: 11px;
+        }
+}
+
 /*# sourceMappingURL=style.css.map */
 /*!
 * Website for ACM IRISS 2021
