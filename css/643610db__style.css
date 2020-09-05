@@ -3183,20 +3183,36 @@ faq-item
     margin-top: 2px; }
 
 .onhoverClass:hover{
-color: white;
+color: DeepPink;
+
+}
+.ow {
+text-transform: capitalize;
+  overflow-wrap: break-word;
+  word-wrap: break-word;
+white-space:normal;
+  display: flex;
+     flex-wrap: wrap;
+    line-height: 1em;
+         padding-top: 0.7em;
+         margin:0.1em;
+
 
 }
 .padding_13px{
-padding-left: 13px;}
+padding-left: 13px;
+}
 
 @media only screen and (max-width : 801px) {
     .media_1024 {
         /* styles here */
         font-size: 13px;
+
     }
     .media_1024_10 {
             /* styles here */
             font-size: 11px;
+
         }
 }
 
