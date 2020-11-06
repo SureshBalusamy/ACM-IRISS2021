@@ -3187,7 +3187,7 @@ color: DeepPink;
 
 }
 .ow {
-text-transform: capitalize;
+text-transform: none;
   overflow-wrap: break-word;
   word-wrap: break-word;
 white-space:normal;
