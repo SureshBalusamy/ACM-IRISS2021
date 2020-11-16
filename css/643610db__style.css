@@ -1269,10 +1269,16 @@ img.pull-right {
     padding: 60px 40px; }
     .ts-speaker-popup .ts-speaker-popup-content .ts-title {
       margin-bottom: 10px; }
-    .ts-speaker-popup .ts-speaker-popup-content .speakder-designation {
+    .ts-speaker-popup .ts-speaker-popup-content .speaker-designation {
       display: block;
       font-size: 14px;
       margin-bottom: 20px; }
+     .ts-speaker-popup .ts-speaker-popup-content .speaker-acm-designation {
+           display: block;
+           color:DeepPink;
+           font-size: 14px;
+           margin-bottom: 20px; }
+
     .ts-speaker-popup .ts-speaker-popup-content .company-logo {
       margin-bottom: 15px; }
     .ts-speaker-popup .ts-speaker-popup-content p {
